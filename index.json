@@ -1,0 +1,11 @@
+[
+    {"nome": "Item 1", "valor": 1},
+    {"nome": "Item 2", "valor": 2},
+    {"nome": "Item 2", "valor": 2},
+    {"nome": "Item 3", "valor": 3},
+    {"nome": "Item 4", "valor": 4},
+    {"nome": "Item 5", "valor": 5},
+    {"nome": "Item 6", "valor": 6},
+    {"nome": "Item 7", "valor": 7},
+    {"nome": "Item 8", "valor": 8}
+]
